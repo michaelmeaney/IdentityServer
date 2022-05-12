@@ -1,6 +1,8 @@
 # Duende IdentityServer
 The most flexible and standards-compliant OpenID Connect and OAuth 2.x framework for ASP.NET Core
 
+[![CodeQL](https://github.com/michaelmeaney/IdentityServer/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/michaelmeaney/IdentityServer/actions/workflows/codeql-analysis.yml)
+
 [Web site](https://duendesoftware.com/products/identityserver) and [documentation](https://docs.duendesoftware.com)
 
 ## How to build
